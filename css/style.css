@@ -8,3 +8,24 @@ img{
 p{
     text-align: center;
 }
+h2.font-cinzel {
+   font-family:  'Akaya Telivigala', cursive;
+   font-family: 'Cinzel', serif;;
+}
+h2.fonts-rocknroll{
+font-family: 'rocknroll-one', Arial, Helvetica, sans-serif;
+
+}
+/* rocknroll-one-regular - latin */
+@font-face {
+    font-family: 'RocknRoll One';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/rocknroll-one-v1-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('../fonts/rocknroll-one-v1-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/rocknroll-one-v1-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/rocknroll-one-v1-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/rocknroll-one-v1-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/rocknroll-one-v1-latin-regular.svg#RocknRollOne') format('svg'); /* Legacy iOS */
+  }
