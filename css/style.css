@@ -6,11 +6,13 @@ img{
     display: block;
 }
 p{
+    
     text-align: center;
+    font-family:  'cinzel', cursive;
 }
 h2.font-cinzel {
-   font-family:  'Akaya Telivigala', cursive;
-   font-family: 'Cinzel', serif;;
+   font-family:  'Alcaya Telivigala', cursive;
+  
 }
 h2.fonts-rocknroll{
 font-family: 'rocknroll-one', Arial, Helvetica, sans-serif;
