@@ -16,7 +16,7 @@ h2.font-cinzel {
 }
 h2.fonts-rocknroll{
 font-family: 'rocknroll-one', Arial, Helvetica, sans-serif;
-
+font-size: 4 em;
 }
 /* rocknroll-one-regular - latin */
 @font-face {
