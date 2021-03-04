@@ -16,7 +16,25 @@ h2.font-cinzel {
 }
 h2.fonts-rocknroll{
 font-family: 'rocknroll-one', Arial, Helvetica, sans-serif;
-font-size: 4 em;
+font-size: 3em;
+}
+.fuente-roboto{
+    font-family:'Roboto', sans-serif;
+    font-size:  4em;
+}
+.fuente-negrita{
+    font-weight: bold;
+
+}
+.fuente-italica{
+    font-size: 32pt;
+    font-style: italic;
+}
+span.resaltado{
+    font-size: 3em;
+    color: crimson;
+    font-weight: bold;
+    font-family: 'roboto', serif;
 }
 /* rocknroll-one-regular - latin */
 @font-face {
