@@ -35,7 +35,14 @@ span.resaltado{
     color: crimson;
     font-weight: bold;
     font-family: 'roboto', serif;
+    
 }
+.fuente-cotizar{
+    color: darkblue;
+    font-size: medium;
+    text-align: center;
+}
+
 /* rocknroll-one-regular - latin */
 @font-face {
     font-family: 'RocknRoll One';
