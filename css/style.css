@@ -56,3 +56,67 @@ span.resaltado{
          url('../fonts/rocknroll-one-v1-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/rocknroll-one-v1-latin-regular.svg#RocknRollOne') format('svg'); /* Legacy iOS */
   }
+  div.contenedoer-9{
+    color: black;
+    background:plum;
+    border: 10px solid rgb(165, 173, 173);
+    padding: 3em;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    margin-right: 5em;
+    margin-left: 8px;
+    border-radius: 3%;
+    width: 100px;
+  
+    display: inline-block;
+   
+    
+ 
+ }
+ div.contenedoer-10{
+     color: black;
+     background:plum;
+     border: 10px solid rgb(165, 173, 173);
+     padding: 3em;
+     margin-top: 0.2em;
+     margin-bottom: 0.2em;
+     margin-right: 5em;
+     margin-left: 8px;
+     border-radius: 3%;
+     width: 100px;
+    
+     display: inline-block;
+ }
+ div.contenedoer-11{
+     color: black;
+     background:plum;
+     border: 10px solid rgb(165, 173, 173);
+     padding: 3em;
+     margin-top: 0.2em;
+     margin-bottom: 0.2em;
+     margin-right: 5em;
+     margin-left: 8px;
+     border-radius: 3%;
+     width: 100px;
+    
+     display: inline-block;
+  
+  }
+  div.contenedoer-12{
+     color: black;
+     background:plum;
+     border: 10px solid rgb(165, 173, 173);
+     padding: 3em;
+     margin-top: 0.2em;
+     margin-bottom: 0.2em;
+     margin-right: 0.2em;
+     margin-left: 8px;
+     border-radius: 3%;
+     width: 100px;
+ 
+  
+     display: inline-block;
+  }
+ 
+     
+ 
