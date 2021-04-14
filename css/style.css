@@ -56,67 +56,85 @@ span.resaltado{
          url('../fonts/rocknroll-one-v1-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/rocknroll-one-v1-latin-regular.svg#RocknRollOne') format('svg'); /* Legacy iOS */
   }
+  div.contenedoer-9, div.contenedoer-10, div.contenedoer-11, div.contenedoer-12{
+      margin-left: 8px;
+      border-radius: 3%;
+      width: 100px;
+      padding: 3 em;
+      display: inline-block;
+
+  }
   div.contenedoer-9{
     color: black;
     background:plum;
     border: 10px solid rgb(165, 173, 173);
-    padding: 3em;
     margin-top: 0.2em;
     margin-bottom: 0.2em;
-    margin-right: 5em;
-    margin-left: 8px;
-    border-radius: 3%;
-    width: 100px;
-  
-    display: inline-block;
-   
-    
+    margin-right: 5em; 
  
  }
  div.contenedoer-10{
      color: black;
      background:plum;
-     border: 10px solid rgb(165, 173, 173);
-     padding: 3em;
+     border: 10px solid rgb(165, 173, 173);  
      margin-top: 0.2em;
      margin-bottom: 0.2em;
      margin-right: 5em;
-     margin-left: 8px;
-     border-radius: 3%;
-     width: 100px;
     
-     display: inline-block;
  }
  div.contenedoer-11{
      color: black;
      background:plum;
-     border: 10px solid rgb(165, 173, 173);
-     padding: 3em;
+     border: 10px solid rgb(165, 173, 173);   
      margin-top: 0.2em;
      margin-bottom: 0.2em;
      margin-right: 5em;
-     margin-left: 8px;
-     border-radius: 3%;
-     width: 100px;
     
-     display: inline-block;
-  
   }
   div.contenedoer-12{
      color: black;
      background:plum;
      border: 10px solid rgb(165, 173, 173);
-     padding: 3em;
      margin-top: 0.2em;
      margin-bottom: 0.2em;
      margin-right: 0.2em;
-     margin-left: 8px;
-     border-radius: 3%;
-     width: 100px;
- 
-  
-     display: inline-block;
+    
+  }
+  span.descuento{
+    font-size: 3em;
+    color:rgb(165, 173, 173);
+    font-weight: bold;
+    font-family: 'roboto', serif; 
+  }
+  img{
+      display: block;
+      margin: 20px auto;
+      width: 200px;
+      padding: 3 em;
+
   }
  
-     
+  p.img-tar{
+      text-align: center;
+      color:rgb(165, 173, 173);
+      font-size: 25px;
+      font-style: normal;
+      line-height:0.2em ;
+  }   
+
+  div.box-cont{
+      padding: 20px;
+      color: tan;
+      display: block;
+      border-radius: 7px;
+      margin: 20px auto;
+      width: 460;
+
+
+  }
+  div.main-conter{
+      display: inline-block;
+      margin: 20px auto;
+
+  }
  
