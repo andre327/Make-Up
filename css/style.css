@@ -115,23 +115,66 @@ span.resaltado{
   }
  
   p.img-tar{
-      text-align: center;
-      color:rgb(165, 173, 173);
-      font-size: 25px;
-      font-style: normal;
-      line-height:0.2em ;
-  }   
+    text-align: center;
+    color:rgb(165, 173, 173);
+    font-size: 25px;
+    font-style: normal;
+    line-height:0.2em ;
+} 
+  
 
-  div.box-cont{
-      padding: 20px;
-      color: tan;
-      display: block;
-      border-radius: 7px;
-      margin: 20px auto;
-      width: 460;
-
+  .box-cont1{
+   background: rgb(184, 34, 96);
+   width: 400px;
+   height: 350px;
+   display: inline-block;
+  
+ 
 
   }
+  .box-cont2{
+    background: rgb(184, 34, 96);
+    width: 400px;
+    height: 350px;
+    display: inline-block;
+   
+  
+ 
+   }
+
+  .box-cont3{
+      background: darkorchid;
+      width: 400px;
+    height: 350px;
+    display: inline-block;
+   
+
+  }
+
+  .box-cont4{
+      background: darkslateblue;
+      width: 400px;
+      height: 350px;
+      display: inline-block;
+      
+
+  }
+
+  .box-cont5{
+      background: firebrick;
+      width: 400px;
+    height: 350px;
+    display: inline-block;
+    
+
+  }
+  p{
+      font-size: 1.8 em;
+      text-align: center;
+
+  }
+
+   
   div.main-conter{
       display: inline-block;
       margin: 20px auto;
