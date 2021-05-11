@@ -133,14 +133,14 @@ span.resaltado{
 
   }
   .box-cont2{
-    background: rgb(184, 34, 96);
+    background: rgba(17, 121, 121, 0.726);
+    
     width: 400px;
-    height: 350px;
-    display: inline-block;
-   
-  
- 
-   }
+  height: 350px;
+  display: inline-block;
+
+
+}
 
   .box-cont3{
       background: darkorchid;
