@@ -69,6 +69,10 @@ table{
         background: DarkSalmon;
         border: none;
     }
+
+    td.letra{
+        font-size:  cursive;
+    }
     
       
    

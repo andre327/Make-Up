@@ -1,3 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.titulo-principal{
+    margin: 15px;
+   
+}
+.titulo-ventas{
+    margin: 15px;
+}
+.titulo-contactenos{
+    margin: 15px;
+}
+.titulo-requerimiento{
+    margin: 15px;
+}
+
 h1, h2{
     text-align: center;
 }
@@ -62,6 +80,7 @@ span.resaltado{
       width: 100px;
       padding: 3 em;
       display: inline-block;
+      
 
   }
   div.contenedoer-9{
@@ -71,6 +90,7 @@ span.resaltado{
     margin-top: 0.2em;
     margin-bottom: 0.2em;
     margin-right: 5em; 
+    
  
  }
  div.contenedoer-10{
@@ -81,6 +101,7 @@ span.resaltado{
      margin-bottom: 0.2em;
      margin-right: 5em;
     
+    
  }
  div.contenedoer-11{
      color: black;
@@ -90,6 +111,7 @@ span.resaltado{
      margin-bottom: 0.2em;
      margin-right: 5em;
     
+    
   }
   div.contenedoer-12{
      color: black;
@@ -98,6 +120,7 @@ span.resaltado{
      margin-top: 0.2em;
      margin-bottom: 0.2em;
      margin-right: 0.2em;
+    
     
   }
   span.descuento{
