@@ -216,6 +216,7 @@ span.resaltado{
       height: 350px;
       display: inline-block;
       vertical-align: top;
+      margin: 3px auto;
       
 
   }
@@ -226,6 +227,7 @@ span.resaltado{
     height: 350px;
     display: inline-block;
     vertical-align: top;
+    margin: 3px auto;
     
 
   }
