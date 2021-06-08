@@ -185,6 +185,7 @@ span.resaltado{
    height: 350px;
    display: inline-block;
    vertical-align: top;
+   margin-left: 10px;
   
  
 
@@ -193,9 +194,9 @@ span.resaltado{
     background: rgba(17, 121, 121, 0.726);
     
     width: 400px;
-  height: 350px;
-  display: inline-block;
-  vertical-align: top;
+    height: 350px;
+    display: inline-block;
+    vertical-align: top;
 
 
 }
@@ -203,9 +204,9 @@ span.resaltado{
   .box-cont3{
       background: darkorchid;
       width: 400px;
-    height: 350px;
-    display: inline-block;
-    vertical-align: top;
+      height: 350px;
+      display: inline-block;
+      vertical-align: top;
    
 
   }
@@ -217,6 +218,7 @@ span.resaltado{
       display: inline-block;
       vertical-align: top;
       margin: 3px auto;
+      margin-left: 10px;
       
 
   }
@@ -224,10 +226,10 @@ span.resaltado{
   .box-cont5{
       background: firebrick;
       width: 400px;
-    height: 350px;
-    display: inline-block;
-    vertical-align: top;
-    margin: 3px auto;
+      height: 350px;
+      display: inline-block;
+      vertical-align: top;
+      margin: 3px auto;
     
 
   }
