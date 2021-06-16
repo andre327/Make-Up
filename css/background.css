@@ -1,6 +1,15 @@
-*{
+/**{
     margin: 0;
     padding: 0;
+}*/
+body{
+    background-image: url("../img/1617.jpg");
+    background-size:cover ;
+
+}
+*{
+    margin: 0%;
+    padding: 0%;
 }
 
 .conter-nav-bar{
